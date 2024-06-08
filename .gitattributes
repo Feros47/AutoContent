@@ -1,11 +1,2 @@
-**/.vscode/
-**/.DS_Store
-**/bin/
-**/obj/
-**/.idea
-.ionide/
-**/.vs/
-/.vs/
-.vs/
-.vs/*
-.fake
+# Auto detect text files and perform LF normalization
+* text=auto
