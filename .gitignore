@@ -42,4 +42,6 @@
 .vs/
 .vs/*
 .fake
+/bin
+/obj
 
