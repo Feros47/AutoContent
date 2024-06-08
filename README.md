@@ -1,2 +1,2 @@
 # AutoContent
- Automatically create shot videos
+This project will automatically by using chatgpt prompts and an ai generative software create short-form videos for social media. It is meant to be included in a pipeline together with **FastPost** to automatically run an instagram and youtube account. It is a mixture of Python and C#.
